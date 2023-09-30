@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <sergey-import src="head">
-  <title>About</title>
+  <title>about</title>
 </sergey-import>
 
 <body>
