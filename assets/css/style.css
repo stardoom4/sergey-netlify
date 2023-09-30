@@ -43,7 +43,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   color: #222;
-  background-color: #fafafa;
+  background-color: #121212;
   font: 400 14px/1.625 -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
     Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji,
     Segoe UI Symbol;
@@ -57,7 +57,13 @@ body {
 }
 
 a {
-  color: #2ab591;
+  color: #fff;
+  text-decoration: underline;
+}
+
+a:hover {
+  background-color: #fff;
+  color: #000000;
 }
 
 code {
